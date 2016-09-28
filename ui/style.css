@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background= "/ui/underwater_blue.jpg";
+    background: url(ui/underwater_blue.jpg);
     margin-top: 75px;
 }
 
