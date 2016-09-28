@@ -8,10 +8,13 @@ body {
     text-align: center;
 }
 
-.text-big {
+.text-head {
     font-size: 150%;
-    color: red;
 }
+ 
+ .text-para {
+     font-size: 100%;
+ }
 
 .bold {
     font-weight: bold;
