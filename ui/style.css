@@ -1,29 +1,25 @@
-<!doctype html>
-<html>
-    <head>
-        <link href="/ui/style.css" rel="stylesheet" />
-        <meta name="viewport" content="width=device-width, initial scale=1"/>
-        <title>
-           Official Page | Vivek Mohan
-        </title>
-    </head>
-    <body>
-        <h1>
-            
-        </h1>
-        <div class="img-medium">
-            <img src="/ui/vvk-photo.jpg" class="img-medium"/>
-        </div>
-        <br>
-        <div class="center text-para bold">
-          <h1 class="center" text-head">
-            <u>Personal Info</u>
-          </h1>
-           <p>
-                Hi! I am Vivek Mohan. I am a beginner to the world of webapp. But I really like webapp developing and working hard to get through the learning process. Thank you for the whole crew who put their effort to such an initiative!! Thankyou!!
-           </p>
-        </div>
-        <script type="text/javascript" src="/ui/main.js">
-        </script>
-    </body>
-</html>
+body{
+    font-family: Georgia;
+    background-color: white;
+    margin-top: 75px;
+}
+
+.center{
+    text-align: justify;
+}
+
+.text-para{
+    font-size:100%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.text-head{
+    font-size: 150%;
+}
+
+.img-medium{
+    height: 200px;
+}
