@@ -45,7 +45,7 @@ function articletemplate (data){
                 <h1>
                     ${heading}
                 </h1>
-                <div>
+                <div class="p">
                     ${date}
                 </div>
                 <div>
