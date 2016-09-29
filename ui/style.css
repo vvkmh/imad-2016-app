@@ -1,6 +1,7 @@
 body{
     font-family: Georgia;
-    background-color: lightgrey;
+    color: white;
+    background-color: black;
     margin-top: 75px;
     background-image: url('/ui/vvk-bkgrnd.png');
 }
@@ -15,6 +16,7 @@ h1{
     font-weight: bolder;
     text-align: left;
     padding-left: 10px;
+    
 }
 
 p{
