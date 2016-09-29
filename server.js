@@ -41,16 +41,17 @@ One: {
                 <div>
                 <a href="/">Home</a>
                 </div>
-                
-                <div>
-                    <h1>
+                <hr>
+                <h1>
                     ${heading}
-                    ${date}
-                    </h1>
-                    <p>
-                    ${content}
-                    </p>
+                </h1>
                 <div>
+                    ${date}
+                </div>
+                <div>
+                    ${content}
+                </div>
+                </div>
             </body>
 `;
             return template;
