@@ -2,7 +2,7 @@ body{
     font-family: Georgia;
     background-color: lightgrey;
     margin-top: 75px;
-    background-image: url("vvk-bkgrnd.png");
+    background-image: url('/ui/vvk-bkgrnd.png');
 }
 
 .center{
