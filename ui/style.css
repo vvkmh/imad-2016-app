@@ -8,7 +8,7 @@ body{
     text-align: justify;
 }
 
-.text-para{
+p{
     font-size:100%;
     max-width: 800px;
     margin: 0 auto;
@@ -18,8 +18,9 @@ body{
     font-weight: bold;
 }
 
-.text-head{
+h1{
     font-size: 150%;
+    text-decoration: underline;
 }
 
 .img-medium{
