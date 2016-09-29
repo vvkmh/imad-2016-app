@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 var articles={
-One: {
+    One: {
     title: 'Speech By Ratan Tata',
     heading: 'Speech By Ratan Tata',
     date: '30 Sept 2016',
@@ -23,12 +23,12 @@ One: {
            </p> `
 },
 };
-    function articletemplate(data){
+function createtemplate (data){
         var title = data.title;
         var heading = data.heading;
         var date = data.date;
         var content = data.content;
-        var template=`
+        var htmltemplate=`
         <html>
             <head>  
                 <title>
@@ -54,12 +54,12 @@ One: {
                 </div>
             </body>
 `;
-            return template;
+            return htmltemplate;
 }
                     
 app.get('/:Name', function (req , res) {
-var Name = req.params.Name;
-res.send(articletemplate(articles[Name]));
+  var Name = req.params.Name;
+  res.send(createtemplate(articles[Name]));
 });
 
 app.get('/', function (req, res) {
