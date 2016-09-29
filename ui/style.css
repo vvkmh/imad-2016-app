@@ -11,6 +11,7 @@ body{
 .text-para{
     font-size:100%;
     max-width: 800px;
+    margin: 0 auto;
 }
 
 .bold{
