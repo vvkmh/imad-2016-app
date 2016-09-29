@@ -1,14 +1,6 @@
 body {
     font-family: Courier;
     background-color: lightgrey;
-background-image: url(/ui/vvk.png);
-
--moz-background-size: cover;
--webkit-background-size: cover;
-background-size: cover;
-background-position: top center;
-background-repeat: no-repeat;
-background-attachment: fixed;
     margin-top: 75px;
 }
 
