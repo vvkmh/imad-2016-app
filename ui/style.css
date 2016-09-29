@@ -21,6 +21,8 @@ p{
     margin: 0 auto;
     font-weight: bold;
     text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .img-medium{
