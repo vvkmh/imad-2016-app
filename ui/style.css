@@ -29,3 +29,9 @@ p{
     height: 200px;
     text-align: center;
 }
+
+a{
+  font-weight: bold;
+  font-size: 50%;
+  padding-left:10px;
+}
