@@ -53,6 +53,7 @@ function createtemplate (data){
                 </div>
                 </div>
             </body>
+        </html>    
 `;
             return htmltemplate;
 }
