@@ -5,7 +5,8 @@ body{
     margin-top: 15px;
     background-image:url("http://cdn.wallpapersafari.com/19/84/HSVrRD.jpg");
     display:block;
-    margin: 0;
+    margin-left: 0;
+    margin-right:0;
     padding: 0;
     
 }
