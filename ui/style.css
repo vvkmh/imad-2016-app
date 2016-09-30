@@ -45,7 +45,13 @@ p{
 }
 
 .h-sideline{
-    
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+    vertical-align: middle;
+    margin: 0 auto;
+    padding: 0px;
+    text-decoration: none;
 }
 .navigation{
     height:34px;
