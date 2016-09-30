@@ -1,7 +1,7 @@
 body{
     font-family: Georgia;
     color: black;
-    background-color: white;
+    background-color: #f1e8b8;
     margin-top: 75px;
     background-image: url('/ui/vvk-bkgrnd.png');
 }
@@ -50,7 +50,7 @@ a{
   font-weight: bold;
   font-size: 85%;
   padding-left:10px;
-  color: white;
+  color: blak;
 }
 
 .border{
