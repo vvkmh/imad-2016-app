@@ -55,7 +55,12 @@ p{
 }
 
 .content-sideline{
-    
+    font-size: 12px;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 16px;
+    line-height: 1.25;
+    word-spacing: 1px;
 }
 .navigation{
     height:34px;
