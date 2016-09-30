@@ -45,7 +45,6 @@ function articletemplate (data){
                     <hr>
                     <br>
                 </div>
-                <hr>
                 <h1>
                     ${heading}
                 </h1>
