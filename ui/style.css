@@ -3,6 +3,7 @@ body{
     color:white;
     margin-top: 75px;
     background-image: url("http://4.bp.blogspot.com/-w7fM7hdbYss/Uh9yhNZtXhI/AAAAAAAAHBw/vW_KQbvPfJo/s1600/Photo-Background-Application4.jpg");
+    display:block;
 }
 
 .center{
@@ -27,7 +28,6 @@ p{
     padding-left: 10px;
     padding-right: 10px;
     margin: 0 auto;
-    word-spacing: 1px;
     text-indent: 50px;
 }
 
