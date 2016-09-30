@@ -43,10 +43,11 @@ p{
 .article{
     max-width: 800px;
     font-size: 100%;
-    font-weight:bold;
+    font-weight: bold;
     text-align: justify;
     padding-left: 10px;
     padding-right: 10px;
+    margin: 0 auto;
 }  
 
 a{
