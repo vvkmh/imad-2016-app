@@ -53,6 +53,7 @@ function articletemplate (data){
                     ${date}
                 </h2>    
                 </div>
+                <br>
                 <div class="article">
                     ${content}
                 </div>
