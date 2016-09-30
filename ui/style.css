@@ -44,6 +44,11 @@ p{
     line-height: 1.25;
 }
 
+.navigation{
+    height:34px;
+    width:100%;
+}
+
 .name{
     vertical-align: 25px;
 }
@@ -65,12 +70,9 @@ p{
     line-height: 1.25;
     word-spacing: 1px;
 }
-.navigation{
-    height:34px;
-    width:100%;
-}
 
-.sideline{
+
+.div-sideline{
     background-color: white;
     color: black;
     font-size: 13px;
