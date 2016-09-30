@@ -2,7 +2,7 @@ body{
     font-family: sana-serif;
     font-style: normal;
     color:white;
-    margin-top: 75px;
+    margin-top: 15px;
     background-image: url("http://4.bp.blogspot.com/-w7fM7hdbYss/Uh9yhNZtXhI/AAAAAAAAHBw/vW_KQbvPfJo/s1600/Photo-Background-Application4.jpg");
     display:block;
 }
@@ -18,7 +18,6 @@ h1{
     text-align: center;
     padding-left: 10px;
     margin: 0 auto;
-    margin-top: auto;
     
 }
 
