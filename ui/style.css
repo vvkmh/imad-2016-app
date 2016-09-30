@@ -10,21 +10,23 @@ body{
 }
 
 h1{
-    font-size: 120%;
+    font-size: 22px;
     text-decoration: underline;
     font-weight: bolder;
-    text-align: left;
+    text-align: center;
     padding-left: 10px;
+    margin: 0 auto;
     
 }
 
 p{
-    font-size: 66%;
-    max-width: 193px;
+    font-size: 14px;
+    max-width: 603px;
     font-weight: bold;
-    text-align: justify;
+    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
+    margin: 0 auto;
 }
 
 .img-dp{
