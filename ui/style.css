@@ -89,6 +89,14 @@ p{
 .div-main{
     
 }
+
+.row{
+    display: table;
+}
+
+.col{
+    display: table-cell;
+}
 .img-dp{
     background: #011e64;
     border-radius: 0px;
