@@ -49,9 +49,17 @@ p{
     height: 125px;
     position: relative;
     width: 125px;
-
 }
 
+.img-cover{
+    background: #011e64;
+    border-radius: 30px;
+    border: 3px solid #ffffff;
+    box-shadow: 0 1px 1px rgba(136,153,166,0.15);
+    height: 125px;
+    position: relative;
+    width: 125px;
+}
 .icon{
     background: #011e64;
     border-radius: 30px;
