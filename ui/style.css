@@ -48,12 +48,14 @@ div{
 
 .img-dp{
     background: #011e64;
-    border-radius: 30px;
-    border: 3px solid #ffffff;
+    border-radius: 0px;
+    border: 2px solid #ffffff;
     box-shadow: 0 1px 1px rgba(136,153,166,0.15);
     height: 125px;
     position: relative;
     width: 125px;
+    margin-top: -90px;
+    margin-left: 21px;
 }
 
 .img-cover{
