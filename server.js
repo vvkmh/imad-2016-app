@@ -39,9 +39,9 @@ function articletemplate (data){
             </head>
             <body>
                 <div>
-                    <a href="/">Home <i class="fa fa-home" aria-hidden="true"></i> </a>  
-                    <a href="https://facebook.com/vvkmh" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
-                    <a href="/one">Speech By Ratan Tata</a>
+                   <a href="/"><i class="fa fa-home" aria-hidden="true"></i>Home </a>
+                    <a href="https://facebook.com/vvkmh" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i>facebook</a>
+                    <a href="https://twitter.com/vvkmh" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>twitter</a>
                     <hr>
                     <br>
                 </div>
