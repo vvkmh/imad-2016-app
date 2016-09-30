@@ -35,7 +35,15 @@ p{
     height: 200px;
     position: relative;
     width: 200px;
-    
+
+.article{
+    max-width: 800px;
+    font-size: 64%;
+    font-weight:bold;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}  
 }
 
 a{
