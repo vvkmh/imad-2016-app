@@ -73,8 +73,8 @@ app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
 
-app.get('/ui/vvk-phto.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'vvk-phto.jpg'));
+app.get('/ui/vvk_phto.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'vvk_phto.jpg'));
 });
 
 
