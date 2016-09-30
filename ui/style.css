@@ -47,7 +47,6 @@ p{
 .navigation{
     height:34px;
     width:100%;
-    
 }
 
 .img-dp{
@@ -99,6 +98,7 @@ a{
   color: black;
   text-decoration:none;
   margin-top: 10px;
+  vertical-align: -webkit-baseline-middle;
 }
 
 .border{
