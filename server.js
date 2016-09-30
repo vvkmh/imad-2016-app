@@ -49,9 +49,9 @@ function articletemplate (data){
                     ${heading}
                 </h1>
                 <div>
-                <p>
+                <h2>
                     ${date}
-                </P>    
+                </h2>    
                 </div>
                 <div class="article">
                     ${content}
