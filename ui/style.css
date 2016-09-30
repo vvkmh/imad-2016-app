@@ -50,7 +50,17 @@ p{
 }
 
 .sideline{
-    
+    background-color: white;
+    color: black;
+    font-weight: lighter;
+    font-size: 13px;
+    line-height: 16px;
+    width: 250px;
+    padding-left: 10px;
+    margin-left: -5px;
+    border: 8px solid white;
+    border-left: none;
+    border-radius: 8px;
 }
 
 .img-dp{
