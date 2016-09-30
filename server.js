@@ -11,7 +11,7 @@ var articles={
     heading: 'Speech By Ratan Tata',
     date: '30 Sept 2016',
     content: `
-          <p>
+        
                 Don't just have career or academic goals. Set goals to give you a balanced, successful life. Balanced means ensuring your
                 health, relationships, mental peace are all in good order. There is no point of getting a promotion on the day of your
                 breakup. There is no fun in driving a car if your back hurts. Shopping is not enjoyable if your mind is full of tensions.
@@ -20,7 +20,7 @@ var articles={
                 Do we really need to get so worked up?It's OK, Bunk few classes, score low in couple of papers, take leave from work,
                 fall in love, fight a little with ur spouse... It's ok... We are people, not programmed devices..! "Don't be serious,
                 enjoy Life as it comes"
-           </p> `
+           `
 },
 };
 function articletemplate (data){
