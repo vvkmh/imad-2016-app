@@ -44,7 +44,11 @@ p{
     line-height: 1.25;
 }
 
-
+.navigation{
+    height:42px;
+    width:100%;
+    
+}
 
 .img-dp{
     background: #011e64;
