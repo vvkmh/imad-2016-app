@@ -39,7 +39,7 @@ function articletemplate (data){
             </head>
             <body>
                 <div>
-                    <a href="/">Home</a>
+                    <a href="/">Home <i class="fa fa-home" aria-hidden="true"></i> </a>  
                     <a href="https://facebook.com/vvkmh" target="_blank">Facebook</a>
                     <a href="/one">Speech By Ratan Tata</a>
                     <hr>
