@@ -50,7 +50,7 @@ function articletemplate (data){
                     ${date}
                 </P>    
                 </div>
-                <div>
+                <div class="article">
                     ${content}
                 </div>
                 </div>
