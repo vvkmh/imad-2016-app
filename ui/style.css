@@ -3,7 +3,7 @@ body{
     color:white;
     background-color: #f1e8b8;
     margin-top: 75px;
-    background-image: url('/vvk-bkgrnd-blue.jpg');
+    background-image: url(/vvk-bkgrnd-blue.jpg);
 }
 
 .center{
