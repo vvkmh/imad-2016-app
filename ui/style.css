@@ -41,6 +41,11 @@ p{
     line-height: 1.25;
 }
 
+div{
+    margin-left:90px;
+    margin-right:100px;
+}
+
 .img-dp{
     background: #011e64;
     border-radius: 30px;
