@@ -104,10 +104,10 @@ p{
 }
 
 .div-cen{
-    margin-left: 289px;
-    width: 100%;
-    height: 100%;
-    display: inline;
+    margin-left: 287px;
+    width: 500px;
+    height: 500px;
+    margin-top: -11px
 }
 
 .row{
@@ -177,12 +177,13 @@ a{
 }
 
 .body-frame{
-    font-family: Arial,sans-serif; */
-    font-style: normal;
+    font-family: Arial,sans-serif;
     color: white;
     margin-top: 15px;
     display: block;
     padding: 0;
     margin-right: 7px;
     margin-left: -7px;
+    border: 4px solid #f1f1f1;
+    border-radius: 5px;
 }
