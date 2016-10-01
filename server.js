@@ -40,6 +40,7 @@ function articletemplate (data){
             </head>
             <body>
                 <div>
+                    <a href="/"><i class="fa fa-home" aria-hidden="true"></i>Home </a>  
                     <a href="http://facebook.com/vvkmh" target="_blank"><img src="http://www.freeiconspng.com/uploads/facebook-icon--basic-round-social-iconset--s-icons-7.png" class="icon">facebook</a>
                     <a href="http://twitter.com/vvkmh" target="_blank"><img src="http://www.freeiconspng.com/uploads/-van-nederland-elgie-gaat-haar-ontwikkeling-posten-op-twitter-24.png" class="icon">twitter</a>
                     <a href="https://plus.google.com/+VivekMohanvvkmh" target="_blank"><img src="http://icons.iconarchive.com/icons/martz90/circle/512/google-plus-icon.png" class="icon">google+</a>
