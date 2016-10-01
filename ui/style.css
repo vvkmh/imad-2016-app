@@ -69,9 +69,8 @@ p{
     padding-left:10px;
     color: black;
     text-decoration:none;
-    margin-top: 9px;
     vertical-align: -webkit-baseline-middle;
-    position:absolute;
+    position:realtive;
 }
 
 .content-sideline{
