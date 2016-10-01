@@ -142,6 +142,7 @@ p{
     height: 30px;
     position: relative;
     width: 30px;
+    cursor:pointer;
 }
 
 .article{
