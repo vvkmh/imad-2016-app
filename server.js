@@ -39,10 +39,6 @@ function articletemplate (data){
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             </head>
             <body>
-                <div class="navigation" style="background-color:white">
-                    <a href="/"><i class="fa fa-home" aria-hidden="true"></i>Home </a>  
-                    <br>
-                </div>
                 <h1>
                     ${heading}
                 </h1>
