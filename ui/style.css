@@ -105,11 +105,11 @@ p{
 
 .div-cen{
     margin-left: 289px;
-    width: 500px;
-    height: 500px;
+    width: 100%;
+    height: 100%;
     display: inline;
 }
-}
+
 .row{
     display: table;
 }
