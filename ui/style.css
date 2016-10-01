@@ -93,7 +93,7 @@ p{
     color: black;
     font-size: 13px;
     line-height: 16px;
-    width: 250px;
+    width: 200px;
     height: 600px;
     padding-left: 10px;
     margin-left: -5px;
@@ -104,10 +104,10 @@ p{
 }
 
 .div-cen{
-    margin-left: 287px;
+    margin-left: 235px;
     width: 500px;
     height: 500px;
-    margin-top: -11px
+    margin-top: -13px;
 }
 
 .row{
