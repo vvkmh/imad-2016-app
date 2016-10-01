@@ -39,7 +39,7 @@ function articletemplate (data){
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             </head>
             <body>
-                <div>
+                <div class="navigation">
                     <a href="/"><i class="fa fa-home" aria-hidden="true"></i>Home </a>  
                     <a href="http://facebook.com/vvkmh" target="_blank"><img src="http://www.freeiconspng.com/uploads/facebook-icon--basic-round-social-iconset--s-icons-7.png" class="icon">facebook</a>
                     <a href="http://twitter.com/vvkmh" target="_blank"><img src="http://www.freeiconspng.com/uploads/-van-nederland-elgie-gaat-haar-ontwikkeling-posten-op-twitter-24.png" class="icon">twitter</a>
