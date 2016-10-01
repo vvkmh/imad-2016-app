@@ -38,8 +38,7 @@ function articletemplate (data){
             <link href="/ui/style.css" rel="stylesheet" />
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             </head>
-            <body>
-            <div style="background-color:white">
+            <body style="background-color:white">
                 <h1>
                     ${heading}
                 </h1>
@@ -53,7 +52,6 @@ function articletemplate (data){
                     ${content}
                 </div>
                 </div>
-            </div>    
             </body>
         </html>    
 `;
