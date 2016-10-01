@@ -103,7 +103,18 @@ p{
     position: absolute;
 }
 
-
+.div-cen{
+    margin-left: 400px;
+    height: 400px;
+    position: relative;
+    display: inline;
+    color: black;
+    font-size: 12px;
+    line-height: 16px;
+    width: 357px;
+    height: 500px;
+    padding-left: 10px;
+    margin-left: 300px;
 
 .row{
     display: table;
