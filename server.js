@@ -38,7 +38,7 @@ function articletemplate (data){
             <link href="/ui/style.css" rel="stylesheet" />
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             </head>
-            <body background-color: white>
+            <body class="body-frame">
                 <h1>
                     ${heading}
                 </h1>
