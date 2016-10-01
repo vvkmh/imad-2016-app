@@ -104,7 +104,11 @@ p{
 }
 
 .div-cen{
-    
+    margin-left: 289px;
+    width: 500px;
+    height: 500px;
+    display: inline;
+}
 }
 .row{
     display: table;
