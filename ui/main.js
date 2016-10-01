@@ -1,8 +1,7 @@
 console.log('Loaded!');
 
 var img = getElementById('fb');
-img.src = 'image.png';
 img.onclick = function() {
-    window.location.href = 'http://putyourlocationhere/';
+    window.location.href = 'http://facebook.com/vvkmh/';
 };
 document.body.appendChild(img);
