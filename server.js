@@ -97,6 +97,7 @@ app.get('/ui/vvk_phto.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'vvk_phto.jpg'));
 });
 
+var counter=0;
 app.get('/counter', function(){
     counter = counter = 1;
     res.send(counter.toString()); 
