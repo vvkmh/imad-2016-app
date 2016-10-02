@@ -119,7 +119,7 @@ p{
     width: 500px;
     min-height: 500px;
     margin-top: -13px;
-   
+    overflow:hidden;
 }
 
 .row{
