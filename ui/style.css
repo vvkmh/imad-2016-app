@@ -62,6 +62,16 @@ p{
     text-decoration: none;
 }
 
+.body-article{
+    font-family: Arial,sans-serif;
+    font-style: normal;
+    color:white;
+    margin-top: 15px;
+    background-image:url("http://cdn.wallpapersafari.com/19/84/HSVrRD.jpg");
+    display:block;
+    margin: 0;
+    padding: 0;
+}
 .h-sideline-article{
     font-weight: bold;
     font-size: 12px;
