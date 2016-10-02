@@ -64,10 +64,10 @@ p{
 
 .h-sideline-article{
     font-weight: bold;
-    font-size: 85%;
+    font-size: 12px;
     font-style: normal;
     padding-left:10px;
-    color: black;
+    color: #365899;
     text-decoration:none;
     vertical-align: -webkit-baseline-middle;
     position:realtive;
