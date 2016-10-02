@@ -2,7 +2,7 @@ var like=document.getElementById('like');
 like.onclick= function() {
     
     
-    var request= new XMLHttpRequet();
+    var request= new XMLHttpRequest();
     request.onreadystatechange = function(){
         if (request.readystate === XMLHttpRequest.DONE) {
             if(request.status === 200){
