@@ -2,8 +2,8 @@ var like=document.getElementById('like');
 var counter=0;
 like.onclick= function() {
     
-    var count-like=document.getElementById('count-like');
+    var countlike=document.getElementById('countlike');
     counter = counter + 1;
-    count-like.innerHTML = counter.toString();
+    countlike.innerHTML = counter.toString();
 };
 
