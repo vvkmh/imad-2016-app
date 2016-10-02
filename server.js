@@ -22,6 +22,23 @@ var articles={
                 enjoy Life as it comes"
            `
 },
+    two: {
+    title: 'Narendra Modi',
+    heading: 'Narendra Modi',
+    date: '02 Oct 2016',
+    content: `
+        
+                Full name of 'Narendra Modi' is Narendra Damodardas Modi. He was born on 17 September 1950 in Vadnagar, Mehsana district, Bombay State (present day Gujarat). His father's name was Damodardas Mool Chand Modi and mother's name was Hiraben. He was born into a middle class family. At the age of 13, he was engaged with jasoda Ben Chaman Lal and when they were married, he was just 17.
+
+                At the age of eight Modi discovered the RSS, and began attending its local shakhas (training sessions). He made his focus on the social and cultural development organizations, national volunteer organization. He served flood victims in Gujarat in 1967. Narendra Modi played important roles on several occasions during his work with RSS.
+
+                In 1987, Narendra Modi entered into the main political stream by joining the Bharatiya Janata Party (BJP). Within a year he was appointed as General Secretary of the party's Gujarat unit. He truly pioneered the challenging task of enabling the party workers, because of which the party started gaining political mileage. In October 2001, Narendra Modi was appointed as Chief Minister of Gujarat. In the 2007 elections the BJP led by Modi once again got a massive majority. In the 2012 elections, the BJP led by Modi once again gained a large majority. Modi sworn in as fourth consecutive Gujarat Chief Minister.
+
+                Due to his fame and style, Modi was declared as candidate for Prime Minister by Bhartiya Janata Party in 2014 general elections. After being declared candidate for Prime Minister, he visited the whole India. Under his leadership, the BJP gained phenomenal success in the 2014 elections. On May 26, 2014, Narendra Modi was sworn in as India's 15th prime minister.
+
+                Image of Narendra Modi is considered of a stern administrator and protective strict discipline. He has keen interest in science and technology. He is realistic as well as idealistic. He is full of optimism. He is best known for rising from humble beginnings to become prime minister of India. He will be always remembered as a successful politician and poet. 
+           `    
+    }
 };
 function articletemplate (data){
         var title = data.title;
