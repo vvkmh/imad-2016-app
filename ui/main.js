@@ -1,8 +1,11 @@
 console.log('Loaded!');
 
 
+var fb=document.getElementById('fb');
+fb.onclick= function () {alert('Are you sure want to leave the site?')};
 
+var tw=document.getElementById('tw');
+tw.onclick= function () {alert("Are you sure want to leave the site?")};
 
-function myFunction() {
-    return "Write something clever here...";
-}
+var go=document.getElementById('go');
+go.onclick= function () {alert('Are you sure want to leave the site?')};
