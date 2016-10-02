@@ -17,3 +17,6 @@ like.onclick= function() {
     request.send(null);
 };
 
+window.onload = function(){
+        document.getElementById('countlike').innerHTML = counter.toString();
+};
