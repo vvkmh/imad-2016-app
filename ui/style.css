@@ -65,9 +65,9 @@ p{
 .body-article{
     font-family: Arial,sans-serif;
     font-style: normal;
-    color:white;
+    color:black;
     margin-top: 15px;
-    background-image:url("http://cdn.wallpapersafari.com/19/84/HSVrRD.jpg");
+    background-color:white;
     display:block;
     margin: 0;
     padding: 0;
