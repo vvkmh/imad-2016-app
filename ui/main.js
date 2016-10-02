@@ -1,9 +1,19 @@
 var like=document.getElementById('like');
-var counter=0;
 like.onclick= function() {
     
-    var countlike=document.getElementById('countlike');
-    counter = counter + 1;
-    countlike.innerHTML = counter.toString();
+    
+    var request= new XMLHttpRequet();
+    request.onreadystatechange = function(){
+        if (request.readystate === XMLHttpRequest.DONE) {
+            if(request.status === 200){
+                var counter = request.responseText;
+                var countlike=document.getElementById('countlike');
+                countlike.innerHTML = counter.toString();
+            }
+        }
+    };
+    
+    request.open('GET', 'http://vvkmh.imad.hasura-app.io/counter', true);
+    request.send(null);
 };
 
