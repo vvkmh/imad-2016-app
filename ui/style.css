@@ -67,8 +67,8 @@ p{
     font-style: normal;
     color:black;
     margin-top: 15px;
-    background-color:white;
-   
+    background-image:none;
+    display:block;
     margin: 0;
     padding: 0;
 }
