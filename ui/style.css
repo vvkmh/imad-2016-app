@@ -117,8 +117,9 @@ p{
 .div-cen{
     margin-left: 235px;
     width: 500px;
-    height: 500px;
+    min-height: 500px;
     margin-top: -13px;
+    overflow:hidden;
 }
 
 .row{
