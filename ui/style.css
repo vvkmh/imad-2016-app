@@ -165,7 +165,8 @@ p{
     height: 30px;
     position: relative;
     width: 30px;
-    cursor:pointer;
+    cursor: pointer;
+    border: 1px solid #d0d6dc;
 }
 
 .article{
