@@ -170,6 +170,16 @@ a{
   vertical-align: -webkit-baseline-middle;
 }
 
+.a-navigation{
+  font-weight: bold;
+  font-size: 85%;
+  font-style: normal;
+  padding-left:10px;
+  color: black;
+  text-decoration:none;
+  margin-top: 9px;
+  vertical-align: -webkit-baseline-middle;
+}
 .border{
     border-style: solid;
     padding-left: 5px;
