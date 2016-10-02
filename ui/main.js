@@ -1,5 +1,6 @@
 window.onload = function(){
     
+        var countlike=document.getElementById('countlike');
         countlike.innerHTML = counter.toString();
 };
 
