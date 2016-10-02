@@ -1,3 +1,7 @@
+window.onload = function(){
+        document.getElementById('countlike').innerHTML = counter.toString();
+};
+
 var like=document.getElementById('like');
 like.onclick= function() {
     
@@ -17,6 +21,3 @@ like.onclick= function() {
     request.send(null);
 };
 
-window.onload = function(){
-        document.getElementById('countlike').innerHTML = counter.toString();
-};
