@@ -4,7 +4,7 @@ like.onclick= function() {
     
     var request= new XMLHttpRequest();
     request.onreadystatechange = function(){
-        if (request.readystate === XMLHttpRequest.DONE) {
+        if (request.readyState === XMLHttpRequest.DONE) {
             if(request.status === 200){
                 var counter = request.responseText;
                 var countlike=document.getElementById('countlike');
