@@ -83,7 +83,7 @@ function articletemplate (data){
 
 
 app.get('/counter', function(req, res) {
-    counter = counter + 1;
+    var counter = counter + 1;
     res.send(counter.toString()); 
 });
 
