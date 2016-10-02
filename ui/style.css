@@ -219,6 +219,8 @@ a{
 }
 
 .like{
-    background-color:blue;
-    color:white;
+    background-color: #015ccf;
+    color: white;
+    border: 1px solid #0070e0;
+    border-radius: 24px;
 }
