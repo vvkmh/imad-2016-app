@@ -27,6 +27,7 @@ var articles={
     heading: 'Narendra Modi',
     date: '02 Oct 2016',
     content: `
+                <img src="http://4.bp.blogspot.com/-iUWT-UOY9Sg/VUmWMcVojxI/AAAAAAAADnA/7i63gjuAhMM/s1600/Narendra%2BModi.jpg" />
         
                 Full name of 'Narendra Modi' is Narendra Damodardas Modi. He was born on 17 September 1950 in Vadnagar, Mehsana district, Bombay State (present day Gujarat). His father's name was Damodardas Mool Chand Modi and mother's name was Hiraben. He was born into a middle class family. At the age of 13, he was engaged with jasoda Ben Chaman Lal and when they were married, he was just 17.
 
