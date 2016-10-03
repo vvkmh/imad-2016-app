@@ -23,7 +23,7 @@ like.onclick= function() {
     request.send(null);
 };
 
-var commentInput=document.getElementBtId('comment');
+var commentInput=document.getElementById('comment');
 var comment=commentInput.value;
 var submit=document.getElementById('submit_butn');
 submit.onclick= function(){
